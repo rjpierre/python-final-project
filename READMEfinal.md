@@ -7,4 +7,4 @@ Rebecca: I learned a lot about how to use Pillow to manipulate pictures in Pytho
 
 Sean: We used a modified version of the process 10 function from our runestone project 1 for our deepfry function.
 
-Nick: It took me a long time to figure out how to center the text on the deep-fryed meme.
+Nick: This project was fun because I got to explore pillow and image manipulation more in Python. Getting the text to look right was tedious, but I’m happy with how it turned out in the end. It took me a long time to figure out how to center the text on the deep-fryed meme. The issue was that I wasn’t able to figure out the exact math for how many pixels my font sizes were, so sometimes text is centered right rather than dead center. Overall, I’m really happy with this project and I can’t wait to share it with my friends.
